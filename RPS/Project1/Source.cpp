@@ -37,10 +37,6 @@ int main()
 	else
 		std::cout << "i rycerz Tomus nie uratuje go z wiezy" << std::endl;
 
-
-	//if (typeid(tab[0]) == typeid(Rycerz))
-	//	std::cout << "Witam!" << std::endl;
-
 	/*std::cout << typeid(tab[0]).name() << std::endl;
 	std::cout << typeid(Mag).name();*/
 	return 0;
