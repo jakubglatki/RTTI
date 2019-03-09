@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPS", "RPS\RPS.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{2F325069-5955-4C83-BE2A-85AA0A5F6FC6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kraje", "Kraje\Kraje.vcxproj", "{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{2F325069-5955-4C83-BE2A-85AA0A5F6FC6}.Release|x64.Build.0 = Release|x64
 		{2F325069-5955-4C83-BE2A-85AA0A5F6FC6}.Release|x86.ActiveCfg = Release|Win32
 		{2F325069-5955-4C83-BE2A-85AA0A5F6FC6}.Release|x86.Build.0 = Release|Win32
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Debug|x64.ActiveCfg = Debug|x64
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Debug|x64.Build.0 = Debug|x64
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Debug|x86.Build.0 = Debug|Win32
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Release|x64.ActiveCfg = Release|x64
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Release|x64.Build.0 = Release|x64
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Release|x86.ActiveCfg = Release|Win32
+		{8B17A181-3D4E-4261-A352-7CEFC3A1D5AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
