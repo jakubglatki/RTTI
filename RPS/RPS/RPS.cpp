@@ -10,11 +10,10 @@ class Papier {
 class Nozyczki {
 };
 
-
 int main()
 {
-	Kamien gracz1;
 
+	Kamien gracz1;
 	Papier gracz2;
 
 
